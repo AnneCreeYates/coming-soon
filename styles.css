@@ -4,4 +4,30 @@
     box-sizing: border-box;
   }
 
+body {
+  background-color: #521075;
+
+}
+
+h1 {
+  color: antiquewhite;
+  position: relative;
+  text-align: center;
+  font-size: 5em;
+}
+
+p {
+  color: antiquewhite;
   
+}
+
+img {
+  width: 45%;
+  height: 100%;
+  border: solid 2em antiquewhite;
+  border-radius: 50% 13px 120%;
+  border-left: antiquewhite;
+  margin: 2em;
+  position: relative;
+  
+}
